@@ -4,5 +4,7 @@ I devised a comprehensive strategy for the Azure DP-203 certification examinatio
 I have been working with on-premise Big Data ecosystem, data warehousing, and ETL for the past 3.5 years and recently embarked on data migration from on-premise to Azure. The target audience for this strategy is undergraduate or graduate students who desire hands-on experience with Azure tools and are targeting intern or full-time positions as data engineers, big data engineers, or cloud data engineers, as well as working professionals who wish to augment their Azure skillset.
 It is recommended to clear the AZ-900 exam before attempting the DP-203 exam.
 ## My preparation strategy entailed the following steps:
- ### 1.Revising all study materials of AZ -900 (exam dumps, Microsoft official curriculum, etc.) for 2 days, as I had already cleared the AZ-900 exam beforehand..
- ### 2.Completing 10 modules from the Microsoft Official Curriculum in one week (https://learn.microsoft.com/en-us/certifications/exams/dp-203). 
+ #### 1.Revising all study materials of AZ -900 (exam dumps, Microsoft official curriculum, etc.) for 2 days, as I had already cleared the AZ-900 exam beforehand..
+ #### 2.Completing 10 modules from the Microsoft Official Curriculum in one week (https://learn.microsoft.com/en-us/certifications/exams/dp-203). 
+ #### 3. Although not imperative, familiarity with fundamental Python code and syntax was advantageous.The Data Life Cycle and policy for moving data across different zones, such as hot, cold, and archive.Familiarity with Polybase and Azure Synapse Link to efficiently transfer data between storage locations .Hands-on experience loading data from ADLS (Azure Data Lake Storage) to a Synapse pool (Spark and SQL pool).Knowledge of indexing, partitioning, and bucketing that can help optimize data storage and retrieval.
+ 
