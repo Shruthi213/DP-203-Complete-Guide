@@ -10,4 +10,4 @@ It is recommended to clear the AZ-900 exam before attempting the DP-203 exam.
  #### 4. Create azure portal(Azure provides free subscription with 200$ credit for one month ,utilize and practise data engineering projects) and practise Data-Engineering-Projects ,few project links providing here :
  ###### https://youtu.be/IaA9YNlg5hM?si=iZkMshx76JA2ZkER , 
  ###### https://youtu.be/iQ41WqhHglk?si=hDEP-i01cP4A0Adt .
- #### 5. After completing Microsoft practise module, youtube videos ,I have Tried Exam dumps in Youtube and Online , Wrote Microsoft practise exams .This exams will give Idea about how much knowledge we have on those topics and Get familiar with exam pattern.
+ #### 5. After completing Microsoft practise module, youtube videos ,I have Tried Microsoft practise exams .This exams will give Idea about how much knowledge we have on those topics and Get familiar with exam pattern.
