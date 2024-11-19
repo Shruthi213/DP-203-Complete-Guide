@@ -11,3 +11,5 @@ It is recommended to clear the AZ-900 exam before attempting the DP-203 exam.
  ###### https://youtu.be/IaA9YNlg5hM?si=iZkMshx76JA2ZkER , 
  ###### https://youtu.be/iQ41WqhHglk?si=hDEP-i01cP4A0Adt .
  #### 5. After completing Microsoft practise module, youtube videos ,I have Tried Microsoft practise exams .This exams will give Idea about how much knowledge we have on those topics and Get familiar with exam pattern.
+#### 6.Final Step is Once you are confident you can schedule DP-203 Exam ,Providing link here : https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification . You can schedule online or exam center as per your availabilty.
+#### All the Best for your Exam.
